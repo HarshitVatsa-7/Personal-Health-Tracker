@@ -56,3 +56,14 @@ Clone the repository:
 ```bash
 git clone https://github.com/<your-username>/Personal-Health-Tracker.git
 cd Personal-Health-Tracker
+```
+
+## 📸 App Screenshots
+
+### 🏠 Dashboard
+![Dashboard](assets/screenshots/1.png)
+
+### ➕ Log Activity
+![Log Activity](assets/screenshots/2.png)
+![Log Activity](assets/screenshots/3.png)
+![Log Activity](assets/screenshots/4.png)
